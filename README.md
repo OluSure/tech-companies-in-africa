@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center"   
     List Of Tech Companies In Africa.
   </a>
 </h1>
@@ -99,6 +99,11 @@
   - Industry: Freelance, Tech learning & Outsourcing
 
 ## <a name="C"> </a>C
+* Company: [cash2crop](https://cash2crop.com.ng)
+
+  - Founder: [@dare___a](https://twitter.com/dare___a) + [@seyi-paul-a89344147](https://linkedin.com/in/seyi-paul-a89344147) + [@ememessien](https://linkedin.com/in/ememessien)
+
+  - Industry: Agro-FinTech
 
 * Company: [CHAfrica_Tech](https://flutterwave.com/store/codehub?_ga=2.169721825.1570256633.1634980577-89854525.1630514755)
  
@@ -432,6 +437,13 @@
  
   - Industry : Crypto Payment Infrastructure/Web3
 
+* Company: [Phronesisfoods](https://phronesisfoods.ng)
+
+  - Founder: [@chichieriobu](https://linkedin.com/in/chichieriobu)
+
+  - Industry: Food Processing
+=
+
 ## <a name="Q"> </a>Q
 
 * Company: [QuabblyHQ](https://quabbly.com/)
@@ -442,6 +454,13 @@
   - Industry: Automation, No-Code
 
 ## <a name="R"> </a>R
+
+* Company: [Ruralfarmershub](https://ruralfarmershub.com)
+
+  - Founder: [@chuqdennis](https://twitter.com/chuqdennis) + [@segunadegun](https://linkedin.com/in/segunadegun)
+
+  - Industry: Farming & Information Technology
+
 
 * Company: [Risevest](https://rise.capital/)
  
